@@ -1,1 +1,9 @@
-
+Install HomeBrew from this link: https://brew.sh/
+Install Node & Watchman: (brew install node || brew install watchman)
+Install Xcode: Apple store
+Install Command Line Tools: XCode -> Preferences -> Locations panel -> Latest Version
+Install IOS Simulator: Xcode -> Preferences -> Components tab -> Select a simulator
+Install cocopods: (sudo gem install cocoapods)
+Install React Native CLI: npx react-native init AwesomeProject
+Start Metro: npx react-native start
+Start Application: npx react-native run-ios
